@@ -1,5 +1,7 @@
 # Flask Web App Tutorial
 
+🔲 ( SEE ALSO: his 22 minute video, much simpler but covers the foundationals: http://youtu.be/kng-mJJby8g )
+
 🔲 TODO: [more complex than the Playlist I just finished] Code for the note storing flask web app made during a YouTube video: Python Website Full Tutorial - Flask, Authentication, Databases and More (Tech With Tim 01Feb2021 dam0GPOAvVI)"
 
 🔲 https://www.youtube.com/watch?v=dam0GPOAvVI
